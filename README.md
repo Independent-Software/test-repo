@@ -2,6 +2,6 @@ This repo is a test repo, to see if you can access, pull from, and push to the r
 
 If you are able to make changes, please make a note in this README with your username.
 
--KrishnaTA, 7/30/2013
+-KrishnaTA, 7/30/2013 (Does this user still exist?)
 
 -KrishnaRSampath, 7/30/2013
